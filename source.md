@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 廖胤珲 (liaoyijhuii@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/18980275793
 
 ---
 
@@ -15,48 +15,32 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1我的经历
 
 ### 2. 第二部分
-
+#### &nbsp; &nbsp; 2.1我的爱好
 ### 3. 第三部分
-
+#### &nbsp; &nbsp; 3.1我的追求
 ---
 
 ## 第一部分
+我的经历
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+来自四川乐山
+高中毕业于成都七中
 
----
+##第二部分
+我的爱好
 
-## 插图
+乒乓球
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508926831938&di=5f244a31761549c347c11b7d565ba27e&imgtype=0&src=http%3A%2F%2Fimg1.qq.com%2F2008%2Fpics%2F8945%2F8945180.jpg">
 
-** Ada Lovelace **
+##第三部分
+我的追求
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
+周游世界
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
 
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
-
----
-
-class: center, middle
 
 # 谢谢
